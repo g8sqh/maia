@@ -1,11 +1,11 @@
 {
-    "name": "biigle/maia",
+    "name": "g8sqh/maia",
     "description": "BIIGLE module module for the Machine Learning Assisted Image Annotation method.",
     "keywords": ["biigle", "biigle-module"],
     "license": "GPL-3.0-only",
     "support": {
-      "source": "https://github.com/biigle/maia",
-      "issues": "https://github.com/biigle/maia/issues"
+      "source": "https://github.com/g8sqh/maia",
+      "issues": "https://github.com/g8sqh/maia/issues"
     },
     "homepage": "https://biigle.de",
     "authors": [
